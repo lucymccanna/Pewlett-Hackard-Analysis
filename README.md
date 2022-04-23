@@ -29,9 +29,9 @@ Module 7: SQL
 ## Summary
 To recover from the "silver tsunami", Pewlett Hackard will have to fill roughly 72,5000 positions. 
 
-There are significantly more retirement-ready staff members than there are members eligible for the mentorship program. All junior employees eligible for the mentorship program will have plenty of qualified mentors, except those in a manager position. As shown in the table below, there are 2 retirement-ready managers but no eligible employees to be mentored.
+There are significantly more retirement-ready staff members than there are members eligible for the mentorship program. All junior employees eligible for the mentorship program will have plenty of qualified mentors, as shown in the table below. It is noteable that there are 2 retirement-ready Managers but no eligible employees to be mentored.
 
 
-Figure 1: Count of Retirement Ready Employees vs Mentor-Eligible Employees by Title
+##### Figure 1: Count of Retirement Ready Employees vs Mentor-Eligible Employees by Title
 ![image_name](https://github.com/lucymccanna/Pewlett-Hackard-Analysis/blob/main/retiring_vs_mentorready.png)
 
