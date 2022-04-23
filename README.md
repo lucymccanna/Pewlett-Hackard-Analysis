@@ -3,7 +3,7 @@ Module 7: SQL
 
 ## Overview of Analysis
   #### Purpose
-  This analysis identifies the number employees at Pewlett Hackard nearing retirement age (born between 1952 and 1955). By grouping the number of employees near retirement by department, the company can better prepare for filling the upcoming vacancies.   
+  This analysis identifies the number employees at Pewlett Hackard nearing retirement age (born between 1952 and 1955). By grouping the number of retirement-ready employees by title, the company can better prepare for filling the upcoming vacancies.   
   
   
 ## Results
