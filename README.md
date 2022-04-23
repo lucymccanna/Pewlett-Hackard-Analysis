@@ -33,5 +33,5 @@ There are significantly more retirement-ready staff members than there are membe
 
 ```
 Figure 1: Count of Retirement Ready Employees vs Mentor-Eligible Employees by Title
-  ![Figure 1](https://github.com/lucymccanna/Pewlett-Hackard-Analysis/blob/main/retiring_vs_mentorready.png)
+  ![Figure 1](https://github.com/lucymccanna/Pewlett-Hackard-Analysis/blob/main/retiring_vs_mentorready.png raw=True)
 ```
